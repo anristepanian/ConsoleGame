@@ -1,0 +1,8 @@
+D:\.NETProjects\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+D:\.NETProjects\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+D:\.NETProjects\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+D:\.NETProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.AssemblyReference.cache
+D:\.NETProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.SuggestedBindingRedirects.cache
+D:\.NETProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+D:\.NETProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+D:\.NETProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb

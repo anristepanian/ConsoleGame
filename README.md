@@ -26,9 +26,6 @@ Play for fun at any time. Not at work!
 # How to improve the project
 A common problem in this game is that due to the randomly drawn map, it is impossible to win.
 
-# Next step
-I'm going to create an AI that will play this game.
-
 # Authors
 - https://github.com/just-a-Programmer1
 

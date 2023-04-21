@@ -18,3 +18,6 @@ Play for fun at any time. Not at work!
 
 # Authors
 - https://github.com/just-a-Programmer1
+
+# License
+[GNU General Public License v3.0](LICENSE)

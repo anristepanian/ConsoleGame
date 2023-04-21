@@ -1,4 +1,5 @@
 # ConsoleGame
+A typical console game created in C# in one day.
 
 # Description
 

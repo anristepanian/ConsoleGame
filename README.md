@@ -20,7 +20,7 @@ The following development tools were used:
 - brain
 
 # How to run the project
-Just run the .exe file :)
+Just run the [.exe](ConsoleGame.exe) file :)
 
 # How to use the project
 Play for fun at any time. Not at work!

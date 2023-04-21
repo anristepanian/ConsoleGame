@@ -6,12 +6,14 @@ The goal of this game is to get to the finish without falling into a hole (marke
 If you step on the ice (marked as I), you will slide down to the next part.
 If there is a ? sign in front of you, do not be afraid, before stepping on it, you will notice what is hidden under it, but only if you are on the sidewalk, otherwise you will step on ? sign not knowing what's underneath it.
 After you finish the game, you will be given the choice to continue playing or close the application. Also if you won, you will see how many steps did it take to win.
+
 - P - player
 - F - finish
 - S - sidewalk
 - H - hole
 - I - ice
 - ? - unknown
+
 The following development tools were used:
 - C#
 - MS Visual Studio as an IDE

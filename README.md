@@ -15,10 +15,10 @@ After you finish the game, you will be given the choice to continue playing or c
 - I - ice
 - ? - unknown
 
-# Start
+Start:
 ![](images/start.png)
 
-# Finish
+Finish:
 ![](images/finish.png)
 
 The following development tools were used:

@@ -24,7 +24,7 @@ After you finish the game, you will be given the choice to continue playing or c
 # Tools
 The following development tools were used:
 - C#
-- MS Visual Studio as an IDE
+- MS Visual Studio
 - brain
 
 # How to run the project

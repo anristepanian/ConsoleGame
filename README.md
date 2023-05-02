@@ -15,6 +15,12 @@ After you finish the game, you will be given the choice to continue playing or c
 - I - ice
 - ? - unknown
 
+# Start
+![](images/start.png)
+
+# Finish
+![](images/finish.png)
+
 The following development tools were used:
 - C#
 - MS Visual Studio as an IDE

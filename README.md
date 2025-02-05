@@ -37,7 +37,7 @@ Play for fun at any time. Not at work!
 A common problem in this game is that due to the randomly drawn map, it is impossible to win.
 
 # Authors
-- https://github.com/just-a-Programmer1
+- https://github.com/anristepanian
 
 # License
 [GNU General Public License v3.0](LICENSE)
